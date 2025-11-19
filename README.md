@@ -1,4 +1,4 @@
-# Python Analytics Automation
+# Python Portfolio: COVID Analytics Automation
 This repository demonstrates a reproducible COVID-19 data analytics workflow inspired by previous work at IBM.  
 All data included here are synthetically generated for demonstration purposes and do not contain proprietary or sensitive information.
 
